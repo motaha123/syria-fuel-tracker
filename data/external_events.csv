@@ -1,0 +1,39 @@
+start,end,category,effect,event,source,confidence
+1980-09-22,1988-08-20,neighbor_conflict,shock,"Iran-Iraq war; Syria closed the Iraqi Kirkuk-Banias pipeline in April 1982",memory,low
+1990-08-02,1991-02-28,neighbor_conflict,shock,"Gulf War (Kuwait invasion and liberation); Syria joined the coalition",memory,low
+2003-03-20,2011-12-18,neighbor_conflict,shock,"US-led invasion and occupation of Iraq",memory,low
+2004-05-11,2011-08-17,sanctions,tighten,"US sanctions under the Syria Accountability Act (limited scope)",memory,low
+2007-09-01,2008-07-31,global_oil,shock,"Global oil price run-up toward the July 2008 peak",memory,low
+2011-03-15,2024-12-08,domestic_war,shock,"Syrian uprising and civil war",memory,medium
+2011-08-18,2025-06-30,sanctions,tighten,"US petroleum import ban and asset freeze (EO 13582); EU oil embargo from Sept 2011; program ended by EO 14312 on 2025-06-30","https://www.willkie.com/publications/2025/07/a-new-era-united-states-lifts-comprehensive-sanctions-on-syria",medium (end verified)
+2014-07-01,2017-10-22,domestic_war,shock,"ISIS controls the large eastern oil fields (start month approximate)","https://amp.cnn.com/cnn/2017/10/23/middleeast/syria-oil-field-isis",medium (year verified)
+2014-06-01,2016-02-29,global_oil,shock,"Global oil price collapse (about 110 to 30 USD per barrel)",memory,low
+2017-10-23,2024-12-08,domestic_war,shock,"SDF takes Al-Omar field; northeast oil fields outside government control","https://amp.cnn.com/cnn/2017/10/23/middleeast/syria-oil-field-isis",high (start verified)
+2018-10-15,2019-05-31,supply_shock,shock,"Iran halts credit line for fuel; shortages peak April 2019; tankers resume May 2019","https://gulfnews.com/world/mena/syria-fuel-crisis-sparked-by-iran-credit-freeze-1.63391783",high
+2019-10-09,2019-10-23,neighbor_conflict,shock,"Turkish operation in northeast Syria",memory,low
+2019-10-17,,neighbor_conflict,shock,"Lebanese financial crisis; Lebanese pound loses about 90 percent; ongoing (blank end)","https://gulfnews.com/world/mena/syria-fuel-crisis-sparked-by-iran-credit-freeze-1.63391783",medium
+2020-03-09,2020-04-30,global_oil,shock,"Oil price crash (COVID demand collapse and price war)",memory,low
+2020-06-17,2025-12-18,sanctions,tighten,"Caesar Act sanctions in force; repealed in the FY2026 NDAA (signing date not fully confirmed)","https://npasyria.com/en/133420/",medium
+2022-02-24,2022-12-31,global_oil,shock,"Russia invades Ukraine; oil price spike (end date approximate)",memory,low
+2023-02-06,2023-05-06,other,shock,"Turkey-Syria earthquake (effect window approximate)",memory,low
+2023-10-07,2025-10-10,neighbor_conflict,shock,"Gaza war and regional escalation (end date unverified)",memory,low
+2024-09-23,2024-11-27,neighbor_conflict,shock,"Israel-Hezbollah escalation until ceasefire",memory,low
+2024-12-08,,other,shock,"Fall of the Assad government and transitional authority; ongoing (blank end)",memory,medium
+2025-05-23,2025-12-18,sanctions,ease,"US sanctions relief phase begins (Caesar waiver); ends with Caesar repeal","https://www.newarab.com/news/syria-welcomes-lifting-us-caesar-act-sanctions",medium
+2025-06-13,2025-06-24,neighbor_conflict,shock,"Israel-Iran 12-day war","https://en.wikipedia.org/wiki/Twelve-Day_War",high
+2012-11-01,2013-03-31,availability,scarce,"Winter heating oil and fuel shortages in government areas (approximate)",memory,low
+2018-08-01,2018-10-14,availability,rationed,"Gasoline smart card rollout begins; monthly caps per vehicle","https://english.enabbaladi.net/archives/2019/02/cards-for-fuel-distribution-in-syria-smart-or-unintelligent-solution/",medium
+2018-10-15,2019-05-31,availability,scarce,"Severe gasoline and diesel shortage and queues after Iran credit halt; first formal rationing; peak April 2019","https://asiatimes.com/2019/02/syria-rations-gasoline-for-first-time-in-history/",high
+2020-09-01,2020-10-31,availability,scarce,"Acute fuel crisis, vehicle quotas of about 30 L per 4 days (window approximate; crisis reported 2020-09-17)","https://news.cgtn.com/news/2020-09-17/Syria-says-U-S-sanctions-behind-acute-fuel-crisis-TR0ZC1Q5Fe/index.html",medium
+2021-07-01,2021-12-31,availability,scarce,"Fuel crisis re-emerges in government areas (Homs and elsewhere); smart-card gasoline price raised Dec 2021; headline-level evidence","https://english.enabbaladi.net/archives/2021/07/fuel-crisis-re-emerges-after-smuggling-stopped-in-regime-held-homs/",low
+2021-04-01,2021-06-30,availability,rationed,"SMS-based quota distribution; supplies cut about 25 percent after Suez disruption; heating fuel only 50 L","https://english.enabbaladi.net/archives/2021/07/fuel-crisis-re-emerges-after-smuggling-stopped-in-regime-held-homs/",medium
+2022-02-15,2023-03-31,availability,scarce,"One continuous crisis: subsidized allocations undelivered for weeks (Mar 2022), four price hikes and rationing during 2022, crisis going on for months by Dec 2022 with state agencies closed and bakeries halted, still unprecedented in Jan 2023","https://english.enabbaladi.net/archives/2022/03/shortage-of-fuel-brings-back-long-queues-traffic-jams-in-damascus/ | https://www.al-monitor.com/originals/2022/12/syria-fuel-crisis-slows-down-life-damascus | https://english.enabbaladi.net/archives/2023/01/unprecedented-fuel-crisis-experts-say-the-next-is-worse/",medium
+2023-04-01,2024-08-31,availability,rationed,"Subsidized smart-card quota continues alongside higher-priced unsubsidized fuel (inferred; not verified)",memory,low
+2024-09-01,2024-12-07,availability,scarce,"Subsidized allocations nearly nonexistent; black market; bus companies stop in Homs; smart-card prices raised twice in Sept 2024","https://english.enabbaladi.net/archives/2024/10/fuel-shortages-worsen-transportation-crisis-in-syria/",medium
+2014-01-01,2018-07-31,availability,rationed,"Set to limited by the project owner for 2014-2024. MEI notes derivatives stayed largely available on Iranian credit (about 2 million barrels per month) but with localized shortages (north Syria June 2015, Aleppo 2016)","https://mei.edu/publication/syrian-oil-crisis-causes-possible-responses-and-implications/",user override
+2025-03-21,2026-06-30,availability,plentiful,"Prices liberalized in March 2025 and smart-card subsidies lifted by July 2025, so fuel sold unrationed at market price; private imports allowed from January 2025; no shortage or queue reports found for this window (inferred)","https://english.enabbaladi.net/archives/2025/01/syrian-oil-ministry-allows-private-sector-to-import-fuel/",low
+2024-12-08,2025-03-20,availability,scarce,"Iranian supply stops at fall of Assad; stocks dwindle until first crude cargo on 2025-03-20","https://www.mees.com/2025/1/17/geopolitical-risk/syria-scrambles-for-fuel-supplies-amid-complication-of-continued-sanctions/3a2326a0-d4e5-11ef-9765-93316547a1a4",medium
+2000-01-01,2010-11-30,availability,plentiful,"Heavily subsidized fuel with plentiful supply and no rationing reported; the 2010 queues were price-driven (diesel subsidy phase-out fears)","https://merip.org/2015/03/fuel-subsidy-policy-and-popular-mobilization-in-syria",medium
+2026-07-01,2026-07-15,availability,scarce,"Empty stations and multi-day queues in Aleppo and Damascus; Energy Ministry dispatches 7 million L of gasoline; eased by mid-July","https://newlinesmag.com/spotlight/syrians-queue-for-fuel-as-iraqi-oil-flows-past-them/",medium
+2026-07-16,2026-08-31,availability,rationed,"Partial shortages persist (especially east), Baniyas refinery maintenance, Russian export limits","https://www.aljazeera.com/news/2026/9/16/people-dont-have-money-syrian-fuel-hikes-deepen-economic-pain",low
+2026-09-01,,availability,scarce,"Energy Ministry cites shortages of refined products; fuel price hikes trigger widest protests since Assad fall; local refineries restarted to supply subsidized diesel","https://www.aljazeera.com/news/2026/9/16/people-dont-have-money-syrian-fuel-hikes-deepen-economic-pain",medium

@@ -1,0 +1,45 @@
+id,announcement_date,effective_date,product,tier,price_before,price_after,price_unit,fuel_fx_per_usd,source_1,source_2,source_3,n_sources,status,notes
+P001,,1982,fuel_oil,regulated,,,SYP_old_per_litre,,MERIP 2015 (Cuyler),,,1,unverified,x15 versus 1977 level; no absolute prices
+P002,,1982,kerosene,regulated,,,SYP_old_per_litre,,MERIP 2015 (Cuyler),,,1,unverified,x4 between 1980 and 1982; no absolute prices
+P003,,1982,diesel,regulated,,,SYP_old_per_litre,,MERIP 2015 (Cuyler),,,1,unverified,almost doubled between 1980 and 1982; no absolute prices
+P004,,2000,gasoline_super,regulated,,20.3,SYP_old_per_litre,,GIZ International Fuel Prices via energypedia (secondary),,,1,unverified,"annual observation, not a decision date"
+P005,,2000,diesel,regulated,,6.1,SYP_old_per_litre,,GIZ International Fuel Prices via energypedia (secondary),"Middle East Economic Survey, issue 2002-06-03",,2,partial,annual observation (GIZ); MEES 2002-06-03 gives 122 per 20 L = 6.1 before the 14 May 2002 rise
+P006,,2002,gasoline_super,regulated,,24.35,SYP_old_per_litre,,GIZ International Fuel Prices via energypedia (secondary),,,1,unverified,"annual observation, not a decision date"
+P007,,2002-05-14,gasoline_regular,regulated,,23.75,SYP_old_per_litre,,"Middle East Economic Survey, issue 2002-05-20",,,1,unverified,+20%; reported 475 SYP per 20 L (USD 10.87); before level not stated
+P008,,2002-05-14,diesel,regulated,6.1,8.45,SYP_old_per_litre,,"Middle East Economic Survey, issue 2002-05-20","Middle East Economic Survey, issue 2002-06-03",,2,partial,+38%; reported 122 -> 169 per 20 L; both sources are MEES (same publisher)
+P009,,2002-05-23,diesel,regulated,8.45,7.0,SYP_old_per_litre,,"Middle East Economic Survey, issue 2002-06-03",,,1,unverified,"partial reversal; 169 -> 140 per 20 L, USD 2.82; still +15% vs before 14 May"
+P010,,2004,gasoline_super,regulated,,23.95,SYP_old_per_litre,,GIZ International Fuel Prices via energypedia (secondary),,,1,unverified,"annual observation, not a decision date"
+P011,,2004,diesel,regulated,,6.77,SYP_old_per_litre,,GIZ International Fuel Prices via energypedia (secondary),,,1,unverified,"annual observation, not a decision date"
+P012,,2005-2008,fuel_oil,regulated,,,SYP_old_per_litre,,MERIP 2015 (Cuyler),,,1,unverified,x7 between 2005 and 2008; effective_date shows the end year only
+P013,,2006-01-25,gasoline_super,regulated,24,30,SYP_old_per_litre,,"Middle East Economic Survey, issue 2006-02-06",,,1,unverified,"reported 480 -> 600 per 20 L (USD 9.2 -> 11.5), more than +20%; regular gasoline 590 per 20 L = 29.5"
+P014,,2007-2008,diesel,regulated,,,SYP_old_per_litre,,MERIP 2015 (Cuyler),,,1,unverified,nearly tripled between 2007 and 2008; end year only
+P015,2007-09-25,2008,diesel,regulated,7,12,SYP_old_per_litre,,"IRIN/New Humanitarian, 2007-09-25",,,1,unverified,"announced 2007-09-25 as a +70% rise to 12 SYP per litre (USD 0.24), planned for 2008; before level back-calculated by the article (about 7.06). The May 2008 IMF figure (+240%) points to a larger final rise"
+P016,,2008-05,gasoline_super,regulated,30,40,SYP_old_per_litre,,IMF 2008 Article IV mission statement,GIZ International Fuel Prices via energypedia (secondary),,2,partial,"IMF: +33%; levels are GIZ 2006 and 2008 observations, and 30 x 1.33 = 39.9 fits"
+P017,,2008-05,diesel,regulated,7,25,SYP_old_per_litre,,IMF 2008 Article IV mission statement,GIZ International Fuel Prices via energypedia (secondary),,2,partial,"IMF: +240%; levels are GIZ 2006 and 2008 observations (7 -> 25 is +257%); IMF also notes diesel coupons at 9 SYP per litre, date not stated"
+P018,,2008-12-01,fuel_oil,regulated,,,SYP_old_per_litre,,IMF 2008 Article IV mission statement,,,1,unverified,+33%; no absolute prices
+F001,,2010-09,gasoline,subsidized,,44,SYP_old_per_litre,,energypedia (secondary compilation),,,1,unverified,lead from search snippet
+F002,,2011-05,diesel,subsidized,20,15,SYP_old_per_litre,,energypedia (secondary compilation),,,1,unverified,decrease; lead
+F003,,2012-05,diesel,subsidized,15,20,SYP_old_per_litre,,energypedia (secondary compilation),,,1,unverified,lead
+F004,,2021-07-10,diesel,subsidized,180,500,SYP_old_per_litre,,Al Jazeera,,,1,unverified,announcement vs effective date to check
+F005,,2022-05,gasoline,subsidized,750,1100,SYP_old_per_litre,,,,,0,unverified,lead
+F006,,2022-08,gasoline,subsidized,1100,2500,SYP_old_per_litre,,,,,0,unverified,lead
+F007,,2022-08,gasoline,unsubsidized,3500,4000,SYP_old_per_litre,,,,,0,unverified,lead
+F008,,2022-08,gasoline_high_octane,unsubsidized,4000,4500,SYP_old_per_litre,,,,,0,unverified,lead
+F009,,2023-02,gasoline_95,outside_smartcard,,6600,SYP_old_per_litre,,,,,0,unverified,lead
+F010,,2023-12-24,gasoline,subsidized,,9000,SYP_old_per_litre,,,,,0,unverified,lead
+F011,,2025-10-07,gasoline_90,unsubsidized,12540,12760,SYP_old_per_litre,11600,,,,0,unverified,lead
+F012,,2025-10-07,gasoline_95,unsubsidized,14025,14270,SYP_old_per_litre,11600,,,,0,unverified,lead
+F013,,2025-10-07,diesel,unsubsidized,10830,11020,SYP_old_per_litre,11600,,,,0,unverified,lead
+F014,,2025-10,gasoline_90,unsubsidized,,13200,SYP_old_per_litre,12000,,,,0,unverified,second hike; lead
+F015,,2025-10,gasoline_95,unsubsidized,,14760,SYP_old_per_litre,12000,,,,0,unverified,second hike; lead
+F016,,2026-05-07,diesel,unsubsidized,0.75,0.88,USD_per_litre,133,,,,0,unverified,check 0.88*133
+F017,,2026-05-07,gasoline_90,unsubsidized,0.85,1.1,USD_per_litre,133,,,,0,unverified,1.10*133=146.30 SYP_new; cross-unit check
+F018,,2026-05-07,gasoline_95,unsubsidized,,1.15,USD_per_litre,133,,,,0,unverified,
+F019,,2026-06-29,gasoline_90,unsubsidized,,,SYP_new_per_litre,,sp-today (aggregator),,,1,unverified,aggregator only; values missing
+F020,,2026-07-28,gasoline_90,unsubsidized,,,SYP_new_per_litre,,sp-today (aggregator),,,1,unverified,aggregator only; values missing
+F021,,2026-09-04,gasoline_90,unsubsidized,142,147,SYP_new_per_litre,131,,,,0,unverified,
+F022,,2026-09-04,gasoline_95,unsubsidized,,152,SYP_new_per_litre,131,,,,0,unverified,
+F023,,2026-09-04,diesel,unsubsidized,,125,SYP_new_per_litre,131,,,,0,unverified,
+F024,,2026-09-12,gasoline_90,unsubsidized,147,185,SYP_new_per_litre,,,,,0,unverified,announced 09-12 or 09-13? check
+F025,,2026-09-13,gasoline_95,unsubsidized,152,195,SYP_new_per_litre,,,,,0,unverified,
+F026,,2026-09-13,diesel,unsubsidized,125,175,SYP_new_per_litre,,,,,0,unverified,
